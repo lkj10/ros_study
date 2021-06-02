@@ -1,0 +1,10 @@
+rosdistro: 'melodic
+
+  '
+roslaunch:
+  uris: {host_user_hp_laptop_14s_dq1xxx__41175: 'http://user-HP-Laptop-14s-dq1xxx:41175/'}
+rosversion: '1.14.11
+
+  '
+run_id: e6b6a204-c34c-11eb-83c1-d81265a42bfb
+turtlesim: {background_b: 255, background_g: 86, background_r: 150}
