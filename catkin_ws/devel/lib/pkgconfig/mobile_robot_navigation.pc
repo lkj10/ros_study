@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/mobile_robot_navigation/lib/pkgconfig/mobile_robot_navigation.pc

@@ -1,0 +1,4 @@
+Symlinking /home/user/catkin_ws/devel/share/sjtu_drone/cmake/sjtu_droneConfig-version.cmake
+Symlinking /home/user/catkin_ws/devel/share/sjtu_drone/cmake/sjtu_droneConfig.cmake
+Symlinking /home/user/catkin_ws/devel/lib/pkgconfig/sjtu_drone.pc
+Symlinking /home/user/catkin_ws/devel/lib/sjtu_drone/drone_keyboard

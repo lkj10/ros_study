@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/sjtu_drone/share/sjtu_drone/cmake/sjtu_droneConfig.cmake

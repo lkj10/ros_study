@@ -1,0 +1,38 @@
+[35m[1mScanning dependencies of target drone_keyboard_autogen[0m
+[35m[1mScanning dependencies of target plugin_ros_imu[0m
+[35m[1mScanning dependencies of target plugin_ros_sonar_autogen[0m
+[35m[1mScanning dependencies of target plugin_ros_init[0m
+[35m[1mScanning dependencies of target plugin_drone[0m
+[35m[1mScanning dependencies of target plugin_ros_cam[0m
+[  4%] [34m[1mAutomatic UIC for target drone_keyboard[0m
+[  9%] [34m[1mAutomatic UIC for target plugin_ros_sonar[0m
+[  9%] Built target plugin_ros_sonar_autogen
+[  9%] Built target drone_keyboard_autogen
+[35m[1mScanning dependencies of target plugin_ros_sonar[0m
+[ 18%] [34m[1mGenerating qrc_drone_keyboard.cpp[0m
+[ 18%] [34m[1mGenerating include/moc_DialogKeyboard.cpp[0m
+[ 22%] [32mBuilding CXX object CMakeFiles/plugin_ros_imu.dir/src/plugin_ros_imu_native.cpp.o[0m
+[ 27%] [32mBuilding CXX object CMakeFiles/plugin_ros_sonar.dir/src/plugin_ros_sonar.cpp.o[0m
+[ 31%] [32mBuilding CXX object CMakeFiles/plugin_drone.dir/src/plugin_drone.cpp.o[0m
+[ 36%] [32mBuilding CXX object CMakeFiles/plugin_drone.dir/src/pid_controller.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/plugin_ros_cam.dir/src/util_ros_cam.cpp.o[0m
+[ 45%] [32mBuilding CXX object CMakeFiles/plugin_ros_cam.dir/src/plugin_ros_cam.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/plugin_ros_init.dir/src/plugin_ros_init.cpp.o[0m
+[35m[1mScanning dependencies of target drone_keyboard[0m
+[ 54%] [32mBuilding CXX object CMakeFiles/drone_keyboard.dir/src/DialogKeyboard.cpp.o[0m
+[ 59%] [32mBuilding CXX object CMakeFiles/drone_keyboard.dir/src/drone_object_ros.cpp.o[0m
+[ 63%] [32mBuilding CXX object CMakeFiles/drone_keyboard.dir/src/drone_keyboard.cpp.o[0m
+[ 68%] [32mBuilding CXX object CMakeFiles/drone_keyboard.dir/qrc_drone_keyboard.cpp.o[0m
+[ 72%] [32mBuilding CXX object CMakeFiles/drone_keyboard.dir/include/moc_DialogKeyboard.cpp.o[0m
+[ 77%] [32m[1mLinking CXX shared library /home/user/catkin_ws/src/sjtu-drone/plugins/libplugin_ros_imu.so[0m
+[ 81%] [32m[1mLinking CXX shared library /home/user/catkin_ws/src/sjtu-drone/plugins/libplugin_ros_sonar.so[0m
+[ 81%] Built target plugin_ros_sonar
+[ 81%] Built target plugin_ros_imu
+[ 86%] [32m[1mLinking CXX shared library /home/user/catkin_ws/src/sjtu-drone/plugins/libplugin_drone.so[0m
+[ 90%] [32m[1mLinking CXX executable /home/user/catkin_ws/devel/.private/sjtu_drone/lib/sjtu_drone/drone_keyboard[0m
+[ 90%] Built target plugin_drone
+[ 90%] Built target drone_keyboard
+[ 95%] [32m[1mLinking CXX shared library /home/user/catkin_ws/src/sjtu-drone/plugins/libplugin_ros_init.so[0m
+[ 95%] Built target plugin_ros_init
+[100%] [32m[1mLinking CXX shared library /home/user/catkin_ws/src/sjtu-drone/plugins/libplugin_ros_cam.so[0m
+[100%] Built target plugin_ros_cam

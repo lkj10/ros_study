@@ -1,0 +1,6 @@
+sjtu-drone
+/home/user/catkin_ws/devel/.private/sjtu_drone/cmake.lock /home/user/catkin_ws/devel/./cmake.lock
+/home/user/catkin_ws/devel/.private/sjtu_drone/share/sjtu_drone/cmake/sjtu_droneConfig-version.cmake /home/user/catkin_ws/devel/share/sjtu_drone/cmake/sjtu_droneConfig-version.cmake
+/home/user/catkin_ws/devel/.private/sjtu_drone/share/sjtu_drone/cmake/sjtu_droneConfig.cmake /home/user/catkin_ws/devel/share/sjtu_drone/cmake/sjtu_droneConfig.cmake
+/home/user/catkin_ws/devel/.private/sjtu_drone/lib/pkgconfig/sjtu_drone.pc /home/user/catkin_ws/devel/lib/pkgconfig/sjtu_drone.pc
+/home/user/catkin_ws/devel/.private/sjtu_drone/lib/sjtu_drone/drone_keyboard /home/user/catkin_ws/devel/lib/sjtu_drone/drone_keyboard
