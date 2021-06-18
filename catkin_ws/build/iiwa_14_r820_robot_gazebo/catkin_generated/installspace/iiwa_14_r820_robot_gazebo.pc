@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/install
+
+Name: iiwa_14_r820_robot_gazebo
+Description: Description of iiwa_14_r820_robot_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
